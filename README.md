@@ -19,7 +19,7 @@ Microsoft Copilot Studio Workshop UDPP Prague
 
 ## Workshop Resources:
 
-- Workshop resources and documents (i.e., this GitHub location): [aka.ms/CopilotStudioWorkshop](https://aka.ms/udppCopilotStudio)).
+- Workshop resources and documents (i.e., this GitHub location): [aka.ms/CopilotStudioWorkshop](https://aka.ms/udppCopilotStudio).
 
 ## Attendee Instructions
 
