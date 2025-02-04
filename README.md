@@ -20,6 +20,7 @@ Microsoft Copilot Studio Workshop UDPP Prague
 ## Workshop Resources:
 
 - Workshop resources and documents (i.e., this GitHub location): [aka.ms/CopilotStudioWorkshop](https://aka.ms/udppCopilotStudio).
+- Full solution covering all Labs to download: [CopilotStudioWorkshopCompleteCopilot_1_0_0_0.zip](https://github.com/pavecer/csudpp/raw/refs/heads/main/CopilotStudioWorkshopCompleteCopilot_1_0_0_0.zip).
 
 ## Attendee Instructions
 
